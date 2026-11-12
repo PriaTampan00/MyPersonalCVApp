@@ -1,0 +1,19 @@
+{
+  "identitas": {
+    "nama": "Ridwan Taopik",
+    "nim": "242505016",
+    "mk": "Pemrograman Mobile 2",
+    "dosen": "Iin, M.Kom"
+  },
+  "currentScore": {
+    "nilai": 96,
+    "grade": "A",
+    "learningPoints": 1430000
+  },
+  "progress": {
+    "attendance": 100,
+    "practice": 96,
+    "quest": 96,
+    "challenge": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "nama": "Ridwan Taopik",
+  "nim": "242505016",
+  "prodi": "Sistem Informasi",
+  "univ": "Universitas Ma'soem",
+  "profesi": "Information Systems Student & UI/UX Enthusiast",
+  "deskripsi": "Mahasiswa Sistem Informasi yang berfokus pada pengembangan aplikasi mobile, antarmuka pengguna (UI/UX), dan teknologi berbasis cloud.",
+  "skills": [
+    "React Native",
+    "Expo",
+    "Figma",
+    "HTML/CSS",
+    "JavaScript",
+    "Node.js",
+    "Firebase"
+  ],
+  "certifications": [
+    {
+      "name": "EF SET English Certificate (C1 Advanced)",
+      "issuer": "EF SET",
+      "year": "Nov 2026"
+    },
+    {
+      "name": "Foundations of User Experience (UX) Design",
+      "issuer": "Google",
+      "year": "Jul 2026"
+    }
+  ]
+}

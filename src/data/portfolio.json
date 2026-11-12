@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Sistem Informasi Peminjaman Aula Cicalengka",
+    "category": "Web Application",
+    "tech": "React, Firebase, Tailwind",
+    "desc": "Aplikasi manajemen peminjaman gedung aula untuk Subbagian Umum Kecamatan Cicalengka."
+  },
+  {
+    "id": "2",
+    "title": "Refinery Caves 2 Mobile Guide",
+    "category": "Mobile Design",
+    "tech": "Figma, UI/UX Design",
+    "desc": "Panduan interaktif game Roblox Refinery Caves 2 berbasis aplikasi mobile."
+  },
+  {
+    "id": "3",
+    "title": "Personal CV & Academic Score App",
+    "category": "Mobile Application",
+    "tech": "React Native, Expo, Expo Router",
+    "desc": "Aplikasi portofolio digital dan dashboard nilai akademik mahasiswa."
+  }
+]
